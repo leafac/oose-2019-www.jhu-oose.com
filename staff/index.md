@@ -270,8 +270,7 @@
 </figure>
 -->
 
-<!-- **Office Hours:** <Hours> -->
-**Office Hours:** Wednesday 12:00-13:00
+**Office Hours:** Wednesdays 12:00–13:00
 
 **Email:** <kalyani@jhu-oose.com>
 
