@@ -47,8 +47,8 @@ You may choose an identifier related to your project if you already decided on o
 </label>
 <input type="text" name="members[]" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
 <input type="text" name="members[]" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
-<input type="text" name="members[]" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
-<input type="text" name="members[]" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
+<input type="text" name="members[]" pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
+<input type="text" name="members[]" pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
 <input type="text" name="members[]" placeholder="(Optional)" pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
 <small>
 These must be the GitHub identifiers of [registered students](/assignments/0#onboarding), for example, [`jhu-oose-example-student`](https://github.com/jhu-oose-example-student).  
