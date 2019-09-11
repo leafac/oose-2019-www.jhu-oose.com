@@ -28,7 +28,7 @@
 ![Yash Kumar Lal](yash.png){:width="300"}
 </figure>
 
-**Office Hours:** Mondays 16:00–17:00 & Thursdays 10:30–11:30
+**Office Hours:** Tuesdays 10:00–11:00 & Thursdays 10:00–11:00
 
 **Email:** <yash@jhu-oose.com>
 
@@ -38,7 +38,7 @@
 
 **Homepage:** <https://www.cs.jhu.edu/~ylal1/>
 
-<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
+**Personal Pronoun:** [He/him](https://www.mypronouns.org/he-him)
 
 # Course Assistants (CAs)
 
