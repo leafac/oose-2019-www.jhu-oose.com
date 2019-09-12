@@ -214,7 +214,7 @@
 
 **GitHub Identifier**: [`anuraagbaishya`](https://github.com/anuraagbaishya)
 
-**Expertise Beyond Toolbox:** Python, Flask, Android SDK, Cryptography, Web Application Security.
+**Expertise Beyond Toolbox:** Python, Flask, Android SDK, Cryptography, and Web Application Security.
 
 **Personal Pronoun:** [He/him](https://www.mypronouns.org/he-him)
 
