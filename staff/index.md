@@ -162,11 +162,9 @@
 
 ## Liza Mathews
 
-<!--
 <figure markdown="1">
-![<Name>](<Profile picture. Dimensions: 600x600. Circular crop. Show your face. The purpose of the profile picture is to be able to recognize you. See the other pictures at https://www.jhu-oose.com/staff. We may take your picture for you with a good camera and good lighting, if you want.>){:width="300"}
+![Liza Mathews](liza.png){:width="300"}
 </figure>
--->
 
 **Office Hours:** Wednesdays 10:00–11:00
 
@@ -178,7 +176,7 @@
 
 <!-- **Homepage:** <Address> -->
 
-<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
+**Personal Pronoun:** [She/her](https://www.mypronouns.org/she-her)
 
 ## Shreyas Aiyar
 
