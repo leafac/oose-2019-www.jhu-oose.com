@@ -85,7 +85,9 @@ After you register your group, the group members are invited to a GitHub Team ca
 
 Your group will be assigned a temporary advisor when you register your group, and by the end of [Iteration 1](/iterations/1) you’ll be assigned a permanent advisor.
 
-**Initial Commit:** By the end of this iteration, each group member must have authored at least one commit in the group’s repository, even if that commit is as simple as editing a line in the `README.md`.
+## Initial Commit
+
+By the end of this iteration, each group member must have authored at least one commit in the group’s repository, even if that commit is as simple as editing a line in the `README.md`.
 
 # Project Proposal
 
