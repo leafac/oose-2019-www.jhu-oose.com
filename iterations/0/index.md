@@ -53,6 +53,7 @@ You may choose an identifier related to your project if you already decided on o
 <small>
 These must be the GitHub identifiers of [registered students](/assignments/0#onboarding), for example, [`jhu-oose-example-student`](https://github.com/jhu-oose-example-student).  
 Don’t include an `@` sign at the beginning—this isn’t a [mention](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#mentioning-people-and-teams).  
+GitHub identifiers **do not** start with `2019-student-`.  
 Groups must have 5 or 6 members.  
 </small>
 
