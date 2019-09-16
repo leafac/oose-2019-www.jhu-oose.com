@@ -1,5 +1,7 @@
 # Opportunities for Extra Points
 
+**⚠️  We only consider work done during the course—we don’t award extra points for work you’ve done before the course started.**
+
 ## Contribute to an Open-Source Project
 
 The contribution may be something as simple as fixing a typo on the `README.md` or as sophisticated as a new feature. Your contribution doesn’t have to be accepted by the maintainers, though it’s better if it is. We’ll evaluate your contribution and award extra points accordingly. If you’re looking for an open-source project to contribute to, we recommend the [the course’s projects](https://github.com/jhu-oose) (including the website you’re reading right now), and the tools in the [Toolbox](/toolbox), most of which are open-source. [Javalin](/toolbox#web-server-javalin) is particularly welcoming to new contributors, and [we have contributed to it already](https://github.com/tipsy/javalin/commits?author=leafac). Submit your open-source contribution to our consideration by opening an issue in your personal repository at `https://github.com/jhu-oose/{{site.course}}-student-<identifier>`.
