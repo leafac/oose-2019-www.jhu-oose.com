@@ -72,7 +72,7 @@ An HTTP request arrives at the [TODOOSE](https://github.com/jhu-oose/todoose) se
 
 # Technology
 
-Continue watching the [TODOOSE video series](/todoose). We’re three weeks away from diving deep into the implementation, and by then we’ll have to know the basics.
+Continue watching the [TODOOSE video series](/todoose). We’re three weeks away from diving deep into the implementation, and by then you’ll have to know the basics.
 
 ## Server
 
