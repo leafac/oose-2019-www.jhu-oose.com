@@ -167,6 +167,7 @@ If you enforce that the class is a singleton with the technique above, you’re 
 # Fluent Interface
 
 <small>
+We didn’t cover this in lecture.  
 This doesn’t appear in the original Design Patterns book.
 </small>
 
@@ -264,6 +265,10 @@ You’re probably breaking the Interface Segregation principle, but you’re kee
 </details>
 
 # Decorator
+
+<small>
+We didn’t cover this in lecture.
+</small>
 
 When you want to extend (or in general, modify) a class, one possibility is to define a child class. But what if you want to extend (or in general, modify) the functionally of a few objects of a class, and not all of them?
 
