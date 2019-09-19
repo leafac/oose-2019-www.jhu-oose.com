@@ -41,11 +41,38 @@ There are a million different interpretations to MVC: from the original Xerox pa
 
 **Where are the M, the V, and the C in TODOOSE’s server? (Hint: We’ve covered this in lectures and assignments.)**
 
+<details markdown="1">
+<summary>My Answer</summary>
+
+The models are in `com.jhuoose.todoose.models`, the controllers are in `com.jhuoose.todoose.controllers.ItemsController`, and the view are the JSON mapping in the controller (though that’s a stretch).
+
+</details>
+
 TODOOSE is a distributed application composed of two components communicating over the network, the server and the client, and each component is an application of its own, which could have its own MVC stack.
 
 **The TODOOSE client (where is it?) doesn’t use the MVC pattern directly. If it were to use it, which parts of the code would end up in the M, the V, and the C? Why would you want to move to this architecture in the client?**
 
+<details markdown="1">
+<summary>My Answer</summary>
+
+**Models:** Things like `{ items: await (await fetch("/items")).json() }`.
+
+**Views:** The renderable parts of the React components (React only helps with the **V** in MVC).
+
+**Controllers:** The methods called `handle<Event>()` (which handle user interaction, like clicks of a button), and methods like `componentDidMount()`.
+
+You’d want to move to a MVC architecture on the client when there’s more logic on the client, besides just display data coming from the server and issuing simple HTTP requests. Or maybe if you have a design team who’s only writing the **V**, and a software development team who’s writing the rest.
+
+</details>
+
 **What [principles](/lectures/2) are you following or breaking when you use this design pattern?**
+
+<details markdown="1">
+<summary>My Answer</summary>
+
+Following Single Responsibility, but breaking YAGNI (unless you aren’t).
+
+</details>
 
 # Singleton
 
@@ -64,9 +91,78 @@ To reproduce this effect in Java, we may have a class that is instantiated only 
 
 **What classes are singletons in TODOOSE? (Hint: You’ll only see `new TheClassThatIsASingleton()` once in the code base.)**
 
+<details markdown="1">
+<summary>My Answer</summary>
+
+`connection`, `itemsRepository`, and `itemsController`.
+
+</details>
+
 **How can we enforce that a singleton class is instantiated only once? (That is, how can we prevent other developers from inattentively creating a second instance of that class?)**
 
+<details markdown="1">
+<summary>My Answer</summary>
+
+Make the constructor private and provide a static method which returns the only instance, for example:
+
+```java
+public class ItemsRepository {
+    private static ItemsRepository instance = new ItemsRepository();
+
+    private ItemsRepository() {
+        // ...
+    }
+
+    public static ItemsRepository getInstance() {
+        return instance;
+    }
+
+    // ...
+}
+```
+
+What about the `connection`, on which `ItemsRepository` depend? Make it available through a static method on the `Server`:
+
+```java
+public class Server {
+    private static Connection connection;
+
+    static {
+        try {
+            connection = DriverManager.getConnection("jdbc:sqlite:todoose.db");
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
+
+    // ...
+
+    public static Connection getConnection() {
+        return connection;
+    }
+}
+```
+
+and when `connection` is necessary:
+
+```java
+var connection = Server.getConnection();
+```
+
+But static things, and therefore singletons, are just another name for global variables. Beware.
+
+Also, what if you buy another printer?
+
+</details>
+
 **What [principles](/lectures/2) are you following or breaking when you use this design pattern?**
+
+<details markdown="1">
+<summary>My Answer</summary>
+
+If you enforce that the class is a singleton with the technique above, you’re applying loose coupling, because the clients need to know less about the class: the system is enforcing the singleton nature of the class for you. At the same time, you may be tightening the coupling between the objects in the system and their real-world counterparts: what if you buy a new printer?
+
+</details>
 
 # Fluent Interface
 
@@ -121,9 +217,51 @@ configuration.remove("name")
 
 **Where can you find Fluent Interfaces on the TODOOSE code base? (Hint: There’s a more obvious Fluent Interface on the server, and a more interesting example somewhere else that is neither the server nor the client(!))**
 
+<details markdown="1">
+<summary>My Answer</summary>
+
+- Javalin’s application, on `Server`.
+- Postman’s tests: `pm.response.to.have.status(200)`.
+
+</details>
+
 **How do you implement a Fluent Interface? Create a `FluentMap` class which acts like a `Map`, but provides the `put()` method as described above.**
 
+<details markdown="1">
+<summary>My Answer</summary>
+
+Let the fluent methods return `this`, for example:
+
+```java
+public class FluentMap<K, V> {
+  private Map<K, V> map = new HashMap<K, V>();
+
+  public FluentMap<K, V> put(K k, V v) {
+    map.put(k, v);
+    return this;
+  }
+}
+```
+
+You can use the `FluentMap` like this:
+
+```java
+var configuration = new FluentMap<String, String>()
+  .put("name", "TODOOSE")
+  .put("url", "https://todoose.herokuapp.com");
+```
+
+</details>
+
+
 **What [principles](/lectures/2) are you following or breaking when you use this design pattern?**
+
+<details markdown="1">
+<summary>My Answer</summary>
+
+You’re probably breaking the Interface Segregation principle, but you’re keeping things simpler, at least for the client of the interface (that is, the code using that interface).
+
+</details>
 
 # Decorator
 
@@ -133,11 +271,90 @@ Create a wrapper object that provides the extra functionality (or in general, di
 
 **Where can you find a Decorator on the TODOOSE code base? (Hint: You implemented a Decorator in an assignment.)**
 
+<details markdown="1">
+<summary>My Answer</summary>
+
+The `ItemView` from [Assignment 2](/assignments/2) was a Decorator for the `Item` model:
+
+```java
+public class ItemView {
+    private Item item;
+
+    public ItemView(Item item) {
+        this.item = item;
+    }
+
+    public int getIdentifier() {
+        return item.getIdentifier();
+    }
+
+    public void setIdentifier(int identifier) {
+        item.setIdentifier(identifier);
+    }
+
+    public String getDescription() {
+        return item.getDescription();
+    }
+
+    public void setDescription(String description) {
+        item.setDescription(description);
+    }
+}
+```
+
+</details>
+
 **Modify the `FluentMap` class from above such that it acts as an Decorator for an existing `Map`. (Caveat: Technically speaking a Decorator isn’t supposed to change the interface of the decorated object; we’re deviating from the textbook here.)**
+
+<details markdown="1">
+<summary>My Answer</summary>
+
+```java
+public class FluentMap<K, V> {
+    private Map<K, V> map;
+
+    public FluentMap(Map<K, V> map) {
+        this.map = map;
+    }
+
+    public FluentMap<K, V> put(K k, V v) {
+        map.put(k, v);
+        return this;
+    }
+}
+```
+
+Now you use the `FluentMap` like this:
+
+```java
+var configuration = new FluentMap<String, String>(new HashMap<String, String>())
+  .put("name", "TODOOSE")
+  .put("url", "https://todoose.herokuapp.com");
+```
+
+</details>
 
 **What are advantages of the Decorator version over the previous one? What are the disadvantages?**
 
+<details markdown="1">
+<summary>My Answer</summary>
+
+In the Decorator version the client (that is, whoever is _using_ `FluentMap`) gets to choose the underlying `Map` implementation, for example, `HashMap` vs. `TreeMap`. This can also be a disadvantage, after all, [convention over configuration](/lectures/2#convention-over-configuration), and most times you don’t care about the specific implementation. But it can also be an advantage if you care about the specific implementation.
+
+The Decorator version is more verbose to use.
+
+The Decorator version works over existing objects, including those you didn’t create yourself.
+
+</details>
+
 **What [principles](/lectures/2) are you following or breaking when you use this design pattern?**
+
+<details markdown="1">
+<summary>My Answer</summary>
+
+You’re not repeating yourself, because the decorator delegates to the decorated object whenever possible, but the decorated object may now fulfill multiple responsibilities, breaking the single responsibility principle.
+
+</details>
 
 # Conclusion
 
