@@ -1,5 +1,7 @@
 # Lecture 3: Design Patterns
 
+[**Video**](https://github.com/jhu-oose/2019-students/releases/download/lectures-videos/oose--lectures--3.mp4){:data-proofer-ignore="true"} <small title="You must be a registered student logged into GitHub to see this.">🔒</small>
+
 # Introduction
 
 - People tried to follow the [principles](/lectures/2) and ended up recreating the same design over and over, which became design patterns.
