@@ -41,7 +41,7 @@ Mondays & Wednesdays 13:30–14:45
 
 [Lecture 3: Design Patterns](/lectures/3)
 
-[Lecture 4: Implementation](/lectures/4) <small title="Work in Progress">🚧</small>
+[Lecture 4: Implementation](/lectures/4)
 
 [Lecture 5: Implementation](/lectures/5) <small title="Work in Progress">🚧</small>
 
@@ -67,7 +67,7 @@ Mondays & Wednesdays 13:30–14:45
 
 [Assignment 3: Design Patterns](/assignments/3)
 
-[Assignment 4: Implementation](/assignments/4) <small title="Work in Progress">🚧</small>
+[Assignment 4: Implementation](/assignments/4)
 
 [Assignment 5: Implementation](/assignments/5) <small title="Work in Progress">🚧</small>
 

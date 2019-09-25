@@ -10,7 +10,7 @@
 The Toolbox is a collection of tools curated by the course staff for the programming assignments and group projects.
 
 <!-- prettier-ignore-start -->
-## How to Read
+# How to Read
 {:.no_toc}
 <!-- prettier-ignore-end -->
 
@@ -21,14 +21,14 @@ The Toolbox is a collection of tools curated by the course staff for the program
 **Third Read.** Refer to [TODOOSE](https://github.com/jhu-oose/todoose) for an example of the tools in action and follow the instructions in the sections named **How Do I Learn It?**. Don’t try to learn everything at once—it’s _a lot_ of material.
 
 <!-- prettier-ignore-start -->
-## Architecture: Web Application
+# Architecture: Web Application
 {:.no_toc}
 <!-- prettier-ignore-end -->
 
 The tools in the Toolbox form the foundation of a web application. This architecture is the most common for modern applications, and it illustrates good software-engineering principles, for example, separation of concerns, segregation of interfaces, and so forth. The two main components of a web application are the _server_ and the _client_ (which typically is a web browser). The tools in the Toolbox cover the whole stack, from end to end, including server and client.
 
 <!-- prettier-ignore-start -->
-## Reasons to Reach for Tools that aren’t in the Toolbox
+# Reasons to Reach for Tools that aren’t in the Toolbox
 {:.no_toc}
 <!-- prettier-ignore-end -->
 
@@ -41,7 +41,7 @@ While you’re restricted to the tools in the Toolbox for the programming assign
 **Profit.** If you and your teammates already have a clear idea of the career path you want to take, you may benefit from having more experience with certain tools that aren’t in the Toolbox. This course is a great opportunity to build a real-world project using these tools to show to a potential employer in the future.
 
 <!-- prettier-ignore-start -->
-## Reasons to Stick to the Tools in the Toolbox
+# Reasons to Stick to the Tools in the Toolbox
 {:.no_toc}
 <!-- prettier-ignore-end -->
 
@@ -54,7 +54,7 @@ While you’re restricted to the tools in the Toolbox for the programming assign
 **No Extra Points.** We evaluate projects based on their technical merits rather than on what tools they use.
 
 <!-- prettier-ignore-start -->
-## Criteria for Curating the Tools
+# Criteria for Curating the Tools
 {:.no_toc}
 <!-- prettier-ignore-end -->
 
@@ -69,7 +69,7 @@ While you’re restricted to the tools in the Toolbox for the programming assign
 **Industry Standard.** The tools must not be only pedagogical toys, but actually be used in industry. For insight on this, refer to surveys like [JetBrains’s State of Developer Ecosystem](https://www.jetbrains.com/lp/devecosystem-2019/) and [Stack Overflow’s Developer Survey](https://insights.stackoverflow.com/survey/), and to other metrics such as the number of stars on GitHub, the number of downloads on the package manager, the number of answered questions on [Stack Overflow](https://stackoverflow.com), and so forth.
 
 <!-- prettier-ignore-start -->
-## Tools in the Toolbox
+# Tools in the Toolbox
 {:.no_toc}
 <!-- prettier-ignore-end -->
 
