@@ -28,7 +28,7 @@
 ![Yash Kumar Lal](yash.png){:width="300"}
 </figure>
 
-**Office Hours:** Mondays 16:00–17:00 & Thursdays 10:30–11:30
+**Office Hours:** Tuesdays 10:00–11:00 & Thursdays 10:00–11:00
 
 **Email:** <yash@jhu-oose.com>
 
@@ -38,17 +38,15 @@
 
 **Homepage:** <https://www.cs.jhu.edu/~ylal1/>
 
-<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
+**Personal Pronoun:** [He/him](https://www.mypronouns.org/he-him)
 
 # Course Assistants (CAs)
 
 ## Anand Koshy
 
-<!--
 <figure markdown="1">
-![<Name>](<Profile picture. Dimensions: 600x600. Circular crop. Show your face. The purpose of the profile picture is to be able to recognize you. See the other pictures at https://www.jhu-oose.com/staff. We may take your picture for you with a good camera and good lighting, if you want.>){:width="300"}
+![Anand Koshy](anand.png){:width="300"}
 </figure>
--->
 
 **Office Hours:** Mondays 12:00–13:00
 
@@ -56,11 +54,9 @@
 
 **GitHub Identifier**: [`anand-koshy`](https://github.com/anand-koshy)
 
-<!-- **Expertise Beyond Toolbox:** . -->
+**Expertise Beyond Toolbox**: JavaScript (React/Redux)
 
-<!-- **Homepage:** <Address> -->
-
-<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
+**Personal Pronoun:** [He/him]
 
 ## Nikhil Teja Dommeti
 
@@ -84,23 +80,21 @@
 
 ## Brandon Lim
 
-<!--
 <figure markdown="1">
-![<Name>](<Profile picture. Dimensions: 600x600. Circular crop. Show your face. The purpose of the profile picture is to be able to recognize you. See the other pictures at https://www.jhu-oose.com/staff. We may take your picture for you with a good camera and good lighting, if you want.>){:width="300"}
+![Brandon Lim](blim.png){:width="300"}
 </figure>
--->
 
-**Office Hours:** Tuesdays & Thursdays 13:30–15:00
+**Office Hours:** Tuesdays & Thursdays 13:30–14:45
 
 **Email:** <brandon@jhu-oose.com>
 
 **GitHub Identifier**: [`blim747`](https://github.com/blim747)
 
-<!-- **Expertise Beyond Toolbox:** . -->
+**Expertise Beyond Toolbox:** Python (Django, Flask), iOS (Swift), and JavaScript (React/Redux)
 
-<!-- **Homepage:** <Address> -->
+**Homepage:** <http://brandonl.im/>
 
-<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
+**Personal Pronoun:** [He/him](https://www.mypronouns.org/he-him)
 
 ## Amrit Nidhi
 
@@ -128,7 +122,7 @@
 ![Stephan Kemper](stephan.png){:width="300"}
 </figure>
 
- **Office Hours:** Mondays 10:00–11:00 & Tuesdays 11:00–12:00
+**Office Hours:** Mondays 10:00–11:00 & Tuesdays 11:00–12:00
 
 **Email:** <stephan@jhu-oose.com>
 
@@ -164,11 +158,9 @@
 
 ## Liza Mathews
 
-<!--
 <figure markdown="1">
-![<Name>](<Profile picture. Dimensions: 600x600. Circular crop. Show your face. The purpose of the profile picture is to be able to recognize you. See the other pictures at https://www.jhu-oose.com/staff. We may take your picture for you with a good camera and good lighting, if you want.>){:width="300"}
+![Liza Mathews](liza.png){:width="300"}
 </figure>
--->
 
 **Office Hours:** Wednesdays 10:00–11:00
 
@@ -176,11 +168,7 @@
 
 **GitHub Identifier**: [`lizamathews`](https://github.com/lizamathews)
 
-<!-- **Expertise Beyond Toolbox:** . -->
-
-<!-- **Homepage:** <Address> -->
-
-<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
+**Personal Pronoun:** [She/her](https://www.mypronouns.org/she-her)
 
 ## Shreyas Aiyar
 
@@ -214,7 +202,7 @@
 
 **GitHub Identifier**: [`anuraagbaishya`](https://github.com/anuraagbaishya)
 
-**Expertise Beyond Toolbox:** Python, Flask, Android SDK, Cryptography, Web Application Security.
+**Expertise Beyond Toolbox:** Python, Flask, Android SDK, Cryptography, and Web Application Security.
 
 **Personal Pronoun:** [He/him](https://www.mypronouns.org/he-him)
 

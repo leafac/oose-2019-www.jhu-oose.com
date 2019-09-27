@@ -43,6 +43,7 @@ One of the points of this course is that we aren’t using only pedagogical tool
 <small>
 For example, [`jhu-oose-example-student`](https://github.com/jhu-oose-example-student).  
 Don’t include an `@` sign at the beginning—this isn’t a [mention](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#mentioning-people-and-teams).  
+GitHub identifiers **do not** start with `2019-student-`.  
 </small>
 
 <label>
@@ -195,6 +196,7 @@ The time of the submission, which we use to calculate [late days](/policies#late
 <small>
 For example, [`jhu-oose-example-student`](https://github.com/jhu-oose-example-student).  
 Don’t include an `@` sign at the beginning—this isn’t a [mention](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#mentioning-people-and-teams).  
+GitHub identifiers **do not** start with `2019-student-`.  
 </small>
 
 <label>
