@@ -196,7 +196,7 @@
 ![Anuraag Baishya](anuraag.png){:width="300"}
 </figure>
 
-**Office Hours:** Tuesdays & Thursdays 16:30–17:30
+**Office Hours:** Tuesdays & Thursdays 16:15–17:15
 
 **Email:** <anuraag@jhu-oose.com>
 
