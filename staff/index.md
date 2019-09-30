@@ -66,7 +66,7 @@
 </figure>
 -->
 
-**Office Hours:** Thursday 08:00-08:45 & Fridays 08:30–09:45
+**Office Hours:** Thursdays 08:00–08:45 & Fridays 08:30–09:45
 
 **Email:** <nikhil@jhu-oose.com>
 
