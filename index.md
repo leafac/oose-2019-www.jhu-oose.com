@@ -43,7 +43,7 @@ Mondays & Wednesdays 13:30–14:45
 
 [Lecture 4: Implementation · Server](/lectures/4)
 
-[Lecture 5: Implementation · Client](/lectures/5) <small title="Work in Progress">🚧</small>
+[Lecture 5: Implementation · Client](/lectures/5)
 
 [Lecture 6: Implementation](/lectures/6) <small title="Work in Progress">🚧</small>
 
@@ -69,7 +69,7 @@ Mondays & Wednesdays 13:30–14:45
 
 [Assignment 4: Implementation · Server](/assignments/4)
 
-[Assignment 5: Implementation · Client](/assignments/5) <small title="Work in Progress">🚧</small>
+[Assignment 5: Implementation · Client](/assignments/5)
 
 [Assignment 6: Implementation](/assignments/6) <small title="Work in Progress">🚧</small>
 
