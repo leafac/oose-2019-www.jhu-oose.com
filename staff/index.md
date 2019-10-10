@@ -16,7 +16,7 @@
 
 **GitHub Identifier**: [`leafac`](https://github.com/leafac)
 
-**Expertise Beyond Toolbox:** System administration, Node.js, Ruby on Rails, and programming-language theory.
+**Expertise Beyond Toolbox:** System administration, Node.js, Ruby on Rails, and programming language theory.
 
 **Homepage:** <https://www.leafac.com>
 
@@ -54,10 +54,6 @@
 
 **GitHub Identifier**: [`anand-koshy`](https://github.com/anand-koshy)
 
-**Expertise Beyond Toolbox**: JavaScript (React/Redux)
-
-**Personal Pronoun:** [He/him]
-
 ## Nikhil Teja Dommeti
 
 <!--
@@ -90,7 +86,7 @@
 
 **GitHub Identifier**: [`blim747`](https://github.com/blim747)
 
-**Expertise Beyond Toolbox:** Python (Django, Flask), iOS (Swift), and JavaScript (React/Redux)
+**Expertise Beyond Toolbox:** Python (Django, Flask) and iOS (Swift).
 
 **Homepage:** <http://brandonl.im/>
 
@@ -128,12 +124,6 @@
 
 **GitHub Identifier**: [`skemper`](https://github.com/skemper)
 
-<!-- **Expertise Beyond Toolbox:** . -->
-
-<!-- **Homepage:** <Address> -->
-
-<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
-
 # Group Advisors
 
 ## Muskaan Kalra
@@ -148,7 +138,7 @@
 
 **GitHub Identifier**: [`muskaankalra`](https://github.com/muskaankalra)
 
-**Expertise Beyond Toolbox:** Python, Android Studio, Flask, JavaScript
+**Expertise Beyond Toolbox:** Python (Flask) and Android.
 
 **Personal Pronoun:** [She/her](https://www.mypronouns.org/she-her)
 
