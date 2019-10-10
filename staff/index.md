@@ -62,17 +62,17 @@
 </figure>
 -->
 
-**Office Hours:** Thursdays 08:00–08:45 & Fridays 08:30–09:45
+**Office Hours:** Thursdays 08:00–08:45 & Fridays 08:00–09:15
 
 **Email:** <nikhil@jhu-oose.com>
 
 **GitHub Identifier**: [`nexusboy`](https://github.com/nexusboy)
 
-<!-- **Expertise Beyond Toolbox:** . -->
+ **Expertise Beyond Toolbox:** : Deeplearning[Python], System Security. 
 
 <!-- **Homepage:** <Address> -->
 
-<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
+ **Personal Pronoun:** [He/him]
 
 ## Brandon Lim
 
