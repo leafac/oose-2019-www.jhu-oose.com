@@ -68,11 +68,9 @@
 
 **GitHub Identifier**: [`nexusboy`](https://github.com/nexusboy)
 
- **Expertise Beyond Toolbox:** : Deeplearning[Python], System Security. 
+ **Expertise Beyond Toolbox:** : Deep Learning in Python and System Security. 
 
-<!-- **Homepage:** <Address> -->
-
- **Personal Pronoun:** [He/him]
+ **Personal Pronoun:** [He/him](https://www.mypronouns.org/he-him)
 
 ## Brandon Lim
 
