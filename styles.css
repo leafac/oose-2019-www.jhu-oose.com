@@ -10,8 +10,9 @@ a {
   color: black;
 }
 
-mark {
-  background-color: #dfdfdf;
+code {
+  font-family: Menlo, Consolas, monospace;
+  font-size: 0.875em;
 }
 
 h1,
@@ -70,15 +71,6 @@ summary {
   cursor: pointer;
 }
 
-code {
-  font-family: Menlo, Consolas, monospace;
-  font-size: 0.875em;
-}
-
-pre code {
-  font-size: 0.75em;
-}
-
 pre,
 fieldset,
 input,
@@ -90,6 +82,10 @@ textarea {
 pre {
   overflow: auto;
   padding: 1rem;
+}
+
+pre code {
+  font-size: 0.75em;
 }
 
 legend {
