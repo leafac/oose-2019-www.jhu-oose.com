@@ -73,20 +73,14 @@ summary {
 pre,
 code,
 input,
-textarea,
-button,
-button:active,
-.button {
+textarea {
   font-family: Menlo, Consolas, monospace;
 }
 
 pre,
 pre code,
 input,
-textarea,
-button,
-button:active,
-.button {
+textarea {
   font-size: 0.75rem;
 }
 
@@ -97,9 +91,6 @@ code {
 pre,
 input,
 textarea,
-button,
-button:active,
-.button,
 fieldset {
   border: 1px solid #dfdfdf;
   border-radius: 3px;
@@ -115,10 +106,7 @@ legend {
 }
 
 input,
-textarea,
-button,
-button:active,
-.button {
+textarea {
   color: black;
   background-color: transparent;
   line-height: 1.5;
@@ -130,14 +118,6 @@ button:active,
 textarea {
   box-sizing: border-box;
   width: 100%;
-}
-
-button,
-button:active,
-.button {
-  cursor: pointer;
-  font-weight: bold;
-  text-decoration: none;
 }
 
 /* $ rougify style github >> styles.css */
