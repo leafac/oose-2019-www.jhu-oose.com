@@ -70,18 +70,13 @@ summary {
   cursor: pointer;
 }
 
-pre,
 code {
   font-family: Menlo, Consolas, monospace;
-}
-
-pre,
-pre code {
-  font-size: 0.75rem;
-}
-
-code {
   font-size: 0.875em;
+}
+
+pre code {
+  font-size: 0.75em;
 }
 
 pre,
