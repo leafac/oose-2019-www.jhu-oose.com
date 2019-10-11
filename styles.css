@@ -71,16 +71,12 @@ summary {
 }
 
 pre,
-code,
-input,
-textarea {
+code {
   font-family: Menlo, Consolas, monospace;
 }
 
 pre,
-pre code,
-input,
-textarea {
+pre code {
   font-size: 0.75rem;
 }
 
@@ -89,9 +85,9 @@ code {
 }
 
 pre,
+fieldset,
 input,
-textarea,
-fieldset {
+textarea {
   border: 1px solid #dfdfdf;
   border-radius: 3px;
 }
@@ -107,17 +103,13 @@ legend {
 
 input,
 textarea {
-  color: black;
-  background-color: transparent;
-  line-height: 1.5;
-  max-width: 100%;
   padding: 0.25rem;
-  resize: none;
 }
 
 textarea {
   box-sizing: border-box;
   width: 100%;
+  resize: none;
 }
 
 /* $ rougify style github >> styles.css */
