@@ -47,7 +47,7 @@ Mondays & Wednesdays 13:30–14:45
 
 [Lecture 6: Implementation · React](/lectures/6)
 
-[Lecture 7: Implementation](/lectures/7) <small title="Work in Progress">🚧</small>
+[Lecture 7: Implementation · Investigating Mysteries](/lectures/7)
 
 [Lecture 8: Refactoring](/lectures/8) <small title="Work in Progress">🚧</small>
 
@@ -73,7 +73,7 @@ Mondays & Wednesdays 13:30–14:45
 
 [Assignment 6: Implementation · React](/assignments/6)
 
-[Assignment 7: Implementation](/assignments/7) <small title="Work in Progress">🚧</small>
+[Assignment 7: Implementation · Investigating Mysteries](/assignments/7)
 
 [Assignment 8: Refactoring](/assignments/8) <small title="Work in Progress">🚧</small>
 
