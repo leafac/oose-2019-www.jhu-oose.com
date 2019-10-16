@@ -36,7 +36,21 @@ Both presentations follow a similar format:
 
 **Code Review:** Give a brief code review, highlighting the most interesting parts of the implementation, and connecting them with the features discussed above.
 
-Improve your presentation skills by following the recommendations in [speaking.io](https://speaking.io), by taking the courses on presentation skills offered by the university, and by reading books such as [The Art of Explanation](http://artofexplanation.com) and [Presentation Zen](https://www.presentationzen.com).
+## Recommendations for a Good Presentation
+
+- Prefer a live demonstration, but have a recorded one as a backup. As a last resort, show screenshots or wireframes.
+
+- Only talk about the distinguishing features of your application, not about the data-manipulation ones.
+
+- Only talk about features that you built, not features based on third-party APIs and other tools.
+
+- Avoid slides. They’re usually a [bad way to present](https://orsagouge.pbworks.com/f/tuftepowerpointfailures.pdf).
+
+- Go to the presentation room before the presentation to test the projector and whatever other hardware and software you’re using, for example, the software to mirror a phone into a projector.
+
+- Have fonts that are large enough, particularly for class diagrams and the code review.
+
+- Improve your presentation skills by following the recommendations in [speaking.io](https://speaking.io), by taking the courses on presentation skills offered by the university, and by reading books such as [The Art of Explanation](http://artofexplanation.com) and [Presentation Zen](https://www.presentationzen.com).
 
 # Examples
 
