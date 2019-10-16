@@ -40,6 +40,8 @@ Both presentations follow a similar format:
 
 - Prefer a live demonstration, but have a recorded one as a backup. As a last resort, show screenshots or wireframes.
 
+- Every group member must talk at least a little.
+
 - Only talk about the distinguishing features of your application, not about the data-manipulation ones.
 
 - Only talk about features that you built, not features based on third-party APIs and other tools.
@@ -49,6 +51,8 @@ Both presentations follow a similar format:
 - Go to the presentation room before the presentation to test the projector and whatever other hardware and software you’re using, for example, the software to mirror a phone into a projector.
 
 - Have fonts that are large enough, particularly for class diagrams and the code review.
+
+- Practice, practice, practice. In particular, practice the transitions from one speaker to the next.
 
 - Improve your presentation skills by following the recommendations in [speaking.io](https://speaking.io), by taking the courses on presentation skills offered by the university, and by reading books such as [The Art of Explanation](http://artofexplanation.com) and [Presentation Zen](https://www.presentationzen.com).
 
