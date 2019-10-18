@@ -26,6 +26,7 @@ GitHub identifiers **do not** start with `2019-student-`.
 <small>
 For example, [`48092726db45fd4bcde21e3712ac2d8e4a094797`](https://github.com/jhu-oose/www.jhu-oose.com/commit/48092726db45fd4bcde21e3712ac2d8e4a094797).  
 Graders will look at the code base as of this commit.  
+The code base as of this commit must include the filled in template at `assignments/{{ include.assignment }}.md`.  
 You may find the commit identifier on the commits page at `https://github.com/jhu-oose/{{site.course}}-student-<identifier>/commits/master`. Usually you want the most recent commit.  
 </small>
 
