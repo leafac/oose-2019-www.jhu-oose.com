@@ -155,15 +155,18 @@
 **Personal Pronoun:** [She/her](https://www.mypronouns.org/she-her)
 
 ## Shreyas Aiyar
+
 <figure markdown="1">
 ![Shreyas Aiyar](shreyas.png){:width="300"}
 </figure>
+
+**Office Hours:** Mondays & Thursdays 18:00–19:00
 
 **Email:** <shreyas@jhu-oose.com>
 
 **GitHub Identifier**: [`ShreyasAiyar`](https://github.com/ShreyasAiyar)
 
-**Expertise Beyond Toolbox:** Xcode and iOS Programming, Angular
+**Expertise Beyond Toolbox:** iOS and Angular.
 
 **Personal Pronoun:** [He/him](https://www.mypronouns.org/he-him)
 
