@@ -1,5 +1,9 @@
 # Assignment 6: Implementation · React
 
+# Working on Assignment
+
+<video src="https://archive.org/download/jhu-oose/oose--assignments--6.mp4" controls preload="none"></video>
+
 Starting from the code we wrote together in [lecture](/lectures/6).
 
 First, finish the implementation by addressing the [TODOs left over from lecture](https://github.com/jhu-oose/todoose/blob/b33f16f6a004e8e6cbc5c75877583022e0b81d00/index.js#L1-L3). This is how the game should work:
