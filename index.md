@@ -37,19 +37,19 @@ Mondays & Wednesdays 13:30–14:45
 
 [Lecture 1: Design Rudiments](/lectures/1)
 
-[Lecture 2: Design Principles](/lectures/2) <small title="Work in Progress">🚧</small>
+[Lecture 2: Design Principles](/lectures/2)
 
-[Lecture 3: Design Patterns](/lectures/3) <small title="Work in Progress">🚧</small>
+[Lecture 3: Design Patterns](/lectures/3)
 
-[Lecture 4: Implementation](/lectures/4) <small title="Work in Progress">🚧</small>
+[Lecture 4: Implementation · Server](/lectures/4)
 
-[Lecture 5: Implementation](/lectures/5) <small title="Work in Progress">🚧</small>
+[Lecture 5: Implementation · Client](/lectures/5)
 
-[Lecture 6: Implementation](/lectures/6) <small title="Work in Progress">🚧</small>
+[Lecture 6: Implementation · React](/lectures/6)
 
-[Lecture 7: Implementation](/lectures/7) <small title="Work in Progress">🚧</small>
+[Lecture 7: Implementation · Investigating Mysteries](/lectures/7)
 
-[Lecture 8: Refactoring](/lectures/8) <small title="Work in Progress">🚧</small>
+[Lecture 8: Security](/lectures/8)
 
 [Lecture 9: Other Programming Paradigms](/lectures/9) <small title="Work in Progress">🚧</small>
 
@@ -63,19 +63,19 @@ Mondays & Wednesdays 13:30–14:45
 
 [Assignment 1: Design Rudiments](/assignments/1)
 
-[Assignment 2: Design Principles](/assignments/2) <small title="Work in Progress">🚧</small>
+[Assignment 2: Design Principles](/assignments/2)
 
-[Assignment 3: Design Patterns](/assignments/3) <small title="Work in Progress">🚧</small>
+[Assignment 3: Design Patterns](/assignments/3)
 
-[Assignment 4: Implementation](/assignments/4) <small title="Work in Progress">🚧</small>
+[Assignment 4: Implementation · Server](/assignments/4)
 
-[Assignment 5: Implementation](/assignments/5) <small title="Work in Progress">🚧</small>
+[Assignment 5: Implementation · Client](/assignments/5)
 
-[Assignment 6: Implementation](/assignments/6) <small title="Work in Progress">🚧</small>
+[Assignment 6: Implementation · React](/assignments/6)
 
-[Assignment 7: Implementation](/assignments/7) <small title="Work in Progress">🚧</small>
+[Assignment 7: Implementation · Investigating Mysteries](/assignments/7)
 
-[Assignment 8: Refactoring](/assignments/8) <small title="Work in Progress">🚧</small>
+[Assignment 8: Security](/assignments/8)
 
 [Assignment 9: Other Programming Paradigms](/assignments/9) <small title="Work in Progress">🚧</small>
 

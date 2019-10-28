@@ -1,3 +1,21 @@
+---
+advisors:
+  - name: Muskaan Kalra
+    github: muskaankalra
+  - name: Liza Mathews
+    github: lizamathews
+  - name: Shreyas Aiyar
+    github: ShreyasAiyar
+  - name: Anuraag Baishya
+    github: anuraagbaishya
+  - name: Pranav Shirke
+    github: Pranavs05
+  - name: Adeshola Lawal
+    github: shola-lawal
+  - name: Kalyani Bansidhar Pawar
+    github: kpawar2410
+---
+
 # Iteration 0: Project Proposal
 
 # Group Formation
@@ -13,10 +31,6 @@ After having formed a group, you must register it using the form below:
 
 <legend>Group Registration</legend>
 
-<small>
-**<small>🚧</small>  DON’T SUBMIT THIS FORM YET  <small>🚧</small>**
-</small>
-
 <label>
 **Group Identifier**  
 <input type="text" name="identifier" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
@@ -29,34 +43,37 @@ You may choose an identifier related to your project if you already decided on o
 
 <label>
 **Group Members GitHub Identifiers**  
-<input type="text" name="member[]" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
+<input type="text" name="members[]" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
 </label>
-<input type="text" name="member[]" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
-<input type="text" name="member[]" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
-<input type="text" name="member[]" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
-<input type="text" name="member[]" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
-<input type="text" name="member[]" placeholder="(Optional)" pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
+<input type="text" name="members[]" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
+<input type="text" name="members[]" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
+<input type="text" name="members[]" pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
+<input type="text" name="members[]" pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
+<input type="text" name="members[]" placeholder="(Optional)" pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
 <small>
 These must be the GitHub identifiers of [registered students](/assignments/0#onboarding), for example, [`jhu-oose-example-student`](https://github.com/jhu-oose-example-student).  
 Don’t include an `@` sign at the beginning—this isn’t a [mention](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#mentioning-people-and-teams).  
+GitHub identifiers **do not** start with `2019-student-`.  
 Groups must have 5 or 6 members.  
 </small>
 
 <label>
-**Preferred Advisors GitHub Identifiers**  
-<input type="text" name="advisor[]" placeholder="(Optional)" pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
-</label>
-<input type="text" name="advisor[]" placeholder="(Optional)" pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
-<small>
-These must be the GitHub identifiers of [group advisors](/staff#group-advisors), for example, [`jhu-oose-example-ca`](https://github.com/jhu-oose-example-ca).  
-Don’t include an `@` sign at the beginning—this isn’t a [mention](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#mentioning-people-and-teams).  
-</small>
+**Preferred [Advisors](/staff#group-advisors)**  
+<select name="advisors[]">
+<option value="">(Optional)</option>
+{%- for advisor in page.advisors -%}
+<option value="{{advisor.github}}">{{advisor.name}}</option>
+{%- endfor -%}
+</select>
+</label>  
+<select name="advisors[]">
+<option value="">(Optional)</option>
+{%- for advisor in page.advisors -%}
+<option value="{{advisor.github}}">{{advisor.name}}</option>
+{%- endfor -%}
+</select>
 
-<small>
-**<small>🚧</small>  DON’T SUBMIT THIS FORM YET  <small>🚧</small>**
-</small>
-
-**<small>⚠️</small>  Don’t submit this form multiple times.**
+**<small>⚠️</small>  Don’t submit this form multiple times. Your group must be registered by only one of your group members.**
 
 <button>Register</button>
 
@@ -65,13 +82,13 @@ Don’t include an `@` sign at the beginning—this isn’t a [mention](https://
 
 If you run into problems, open an issue on your personal repository at `https://github.com/jhu-oose/{{site.course}}-student-<identifier>` or send an email to <group-registration@jhu-oose.com>. Include all the information from the form above.
 
-Your group must be registered by _only one_ of your group members.
-
 After you register your group, the group members are invited to a GitHub Team called `jhu-oose/{{site.course}}-group-<identifier>`, which grants you access to a repository at `https://github.com/jhu-oose/{{site.course}}-group-<identifier>`. You’ll use this repository throughout the course to submit iterations, receive reviews, communicate with your advisor, and so forth.
 
-Your group will be assigned a temporary advisor for now, and by the end of [Iteration 1](/iterations/1) you’ll be assigned a permanent advisor.
+Your group will be assigned a temporary advisor when you register your group, and by the end of [Iteration 1](/iterations/1) you’ll be assigned a permanent advisor.
 
-**Initial Commit:** By the end of this iteration, each group member must have authored at least one commit in the group’s repository, even if that commit is as simple as editing a line in the `README.md`.
+## Initial Commit
+
+By the end of this iteration, each group member must have authored at least one commit in the group’s repository, even if that commit is as simple as editing a line in the `README.md`.
 
 # Project Proposal
 

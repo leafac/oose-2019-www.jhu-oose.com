@@ -16,7 +16,7 @@
 
 **GitHub Identifier**: [`leafac`](https://github.com/leafac)
 
-**Expertise Beyond Toolbox:** System administration, Node.js, Ruby on Rails, and programming-language theory.
+**Expertise Beyond Toolbox:** System administration, Node.js, Ruby on Rails, and programming language theory.
 
 **Homepage:** <https://www.leafac.com>
 
@@ -28,7 +28,7 @@
 ![Yash Kumar Lal](yash.png){:width="300"}
 </figure>
 
-**Office Hours:** Mondays 16:00–17:00 & Thursdays 10:30–11:30
+**Office Hours:** Tuesdays 10:00–11:00 & Thursdays 10:00–11:00
 
 **Email:** <yash@jhu-oose.com>
 
@@ -38,29 +38,21 @@
 
 **Homepage:** <https://www.cs.jhu.edu/~ylal1/>
 
-<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
+**Personal Pronoun:** [He/him](https://www.mypronouns.org/he-him)
 
 # Course Assistants (CAs)
 
 ## Anand Koshy
 
-<!--
 <figure markdown="1">
-![<Name>](<Profile picture. Dimensions: 600x600. Circular crop. Show your face. The purpose of the profile picture is to be able to recognize you. See the other pictures at https://www.jhu-oose.com/staff. We may take your picture for you with a good camera and good lighting, if you want.>){:width="300"}
+![Anand Koshy](anand.png){:width="300"}
 </figure>
--->
 
 **Office Hours:** Mondays 12:00–13:00
 
 **Email:** <anand@jhu-oose.com>
 
 **GitHub Identifier**: [`anand-koshy`](https://github.com/anand-koshy)
-
-<!-- **Expertise Beyond Toolbox:** . -->
-
-<!-- **Homepage:** <Address> -->
-
-<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
 
 ## Nikhil Teja Dommeti
 
@@ -70,37 +62,33 @@
 </figure>
 -->
 
-**Office Hours:** Mondays & Wednesdays 11:00–12:00
+**Office Hours:** Thursdays 08:00–08:45 & Fridays 08:00–09:15
 
 **Email:** <nikhil@jhu-oose.com>
 
 **GitHub Identifier**: [`nexusboy`](https://github.com/nexusboy)
 
-<!-- **Expertise Beyond Toolbox:** . -->
+ **Expertise Beyond Toolbox:** : Deep Learning in Python and System Security. 
 
-<!-- **Homepage:** <Address> -->
-
-<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
+ **Personal Pronoun:** [He/him](https://www.mypronouns.org/he-him)
 
 ## Brandon Lim
 
-<!--
 <figure markdown="1">
-![<Name>](<Profile picture. Dimensions: 600x600. Circular crop. Show your face. The purpose of the profile picture is to be able to recognize you. See the other pictures at https://www.jhu-oose.com/staff. We may take your picture for you with a good camera and good lighting, if you want.>){:width="300"}
+![Brandon Lim](blim.png){:width="300"}
 </figure>
--->
 
-**Office Hours:** Tuesdays & Thursdays 13:30–15:00
+**Office Hours:** Tuesdays & Thursdays 13:30–14:45
 
 **Email:** <brandon@jhu-oose.com>
 
 **GitHub Identifier**: [`blim747`](https://github.com/blim747)
 
-<!-- **Expertise Beyond Toolbox:** . -->
+**Expertise Beyond Toolbox:** Python (Django, Flask) and iOS (Swift).
 
-<!-- **Homepage:** <Address> -->
+**Homepage:** <http://brandonl.im/>
 
-<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
+**Personal Pronoun:** [He/him](https://www.mypronouns.org/he-him)
 
 ## Amrit Nidhi
 
@@ -124,33 +112,23 @@
 
 ## Stephan Kemper
 
-<!--
 <figure markdown="1">
-![<Name>](<Profile picture. Dimensions: 600x600. Circular crop. Show your face. The purpose of the profile picture is to be able to recognize you. See the other pictures at https://www.jhu-oose.com/staff. We may take your picture for you with a good camera and good lighting, if you want.>){:width="300"}
+![Stephan Kemper](stephan.png){:width="300"}
 </figure>
--->
 
- <!-- **Office Hours:** <Hours> -->
+**Office Hours:** Mondays 10:00–11:00 & Tuesdays 11:00–12:00
 
 **Email:** <stephan@jhu-oose.com>
 
 **GitHub Identifier**: [`skemper`](https://github.com/skemper)
 
-<!-- **Expertise Beyond Toolbox:** . -->
-
-<!-- **Homepage:** <Address> -->
-
-<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
-
 # Group Advisors
 
 ## Muskaan Kalra
 
-<!--
 <figure markdown="1">
-![<Name>](<Profile picture. Dimensions: 600x600. Circular crop. Show your face. The purpose of the profile picture is to be able to recognize you. See the other pictures at https://www.jhu-oose.com/staff. We may take your picture for you with a good camera and good lighting, if you want.>){:width="300"}
+![Muskaan Kalra](muskaan.png){:width="300"}
 </figure>
--->
 
 **Office Hours:** Tuesdays & Thursdays 15:00–16:00
 
@@ -158,71 +136,55 @@
 
 **GitHub Identifier**: [`muskaankalra`](https://github.com/muskaankalra)
 
-<!-- **Expertise Beyond Toolbox:** . -->
+**Expertise Beyond Toolbox:** Python (Flask) and Android.
 
-<!-- **Homepage:** <Address> -->
-
-<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
+**Personal Pronoun:** [She/her](https://www.mypronouns.org/she-her)
 
 ## Liza Mathews
 
-<!--
 <figure markdown="1">
-![<Name>](<Profile picture. Dimensions: 600x600. Circular crop. Show your face. The purpose of the profile picture is to be able to recognize you. See the other pictures at https://www.jhu-oose.com/staff. We may take your picture for you with a good camera and good lighting, if you want.>){:width="300"}
+![Liza Mathews](liza.png){:width="300"}
 </figure>
--->
 
-**Office Hours:** Mondays 10:00–11:00
+**Office Hours:** Wednesdays 10:00–11:00
 
 **Email:** <liza@jhu-oose.com>
 
 **GitHub Identifier**: [`lizamathews`](https://github.com/lizamathews)
 
-<!-- **Expertise Beyond Toolbox:** . -->
-
-<!-- **Homepage:** <Address> -->
-
-<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
+**Personal Pronoun:** [She/her](https://www.mypronouns.org/she-her)
 
 ## Shreyas Aiyar
 
-<!--
 <figure markdown="1">
-![<Name>](<Profile picture. Dimensions: 600x600. Circular crop. Show your face. The purpose of the profile picture is to be able to recognize you. See the other pictures at https://www.jhu-oose.com/staff. We may take your picture for you with a good camera and good lighting, if you want.>){:width="300"}
+![Shreyas Aiyar](shreyas.png){:width="300"}
 </figure>
--->
 
-**Office Hours:** Mondays & Wednesdays 18:00–19:00
+**Office Hours:** Mondays & Thursdays 18:00–19:00
 
 **Email:** <shreyas@jhu-oose.com>
 
 **GitHub Identifier**: [`ShreyasAiyar`](https://github.com/ShreyasAiyar)
 
-<!-- **Expertise Beyond Toolbox:** . -->
+**Expertise Beyond Toolbox:** iOS and Angular.
 
-<!-- **Homepage:** <Address> -->
-
-<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
+**Personal Pronoun:** [He/him](https://www.mypronouns.org/he-him)
 
 ## Anuraag Baishya
 
-<!--
 <figure markdown="1">
-![<Name>](<Profile picture. Dimensions: 600x600. Circular crop. Show your face. The purpose of the profile picture is to be able to recognize you. See the other pictures at https://www.jhu-oose.com/staff. We may take your picture for you with a good camera and good lighting, if you want.>){:width="300"}
+![Anuraag Baishya](anuraag.png){:width="300"}
 </figure>
--->
 
-**Office Hours:** Tuesdays & Thursdays 16:30–17:30
+**Office Hours:** Tuesdays & Thursdays 16:15–17:15
 
 **Email:** <anuraag@jhu-oose.com>
 
 **GitHub Identifier**: [`anuraagbaishya`](https://github.com/anuraagbaishya)
 
-<!-- **Expertise Beyond Toolbox:** . -->
+**Expertise Beyond Toolbox:** Python, Flask, Android SDK, Cryptography, and Web Application Security.
 
-<!-- **Homepage:** <Address> -->
-
-<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
+**Personal Pronoun:** [He/him](https://www.mypronouns.org/he-him)
 
 ## Pranav Shirke
 
@@ -232,7 +194,7 @@
 </figure>
 -->
 
-**Office Hours:** Fridays 12:30–13:30
+**Office Hours:** Fridays 12:30–13:30 & Wednesdays 16:30–17:30
 
 **Email:** <pranav@jhu-oose.com>
 
@@ -272,31 +234,11 @@
 </figure>
 -->
 
-<!-- **Office Hours:** <Hours> -->
+**Office Hours:** Wednesdays 12:00–13:00
 
 **Email:** <kalyani@jhu-oose.com>
 
 **GitHub Identifier**: [`kpawar2410`](https://github.com/kpawar2410)
-
-<!-- **Expertise Beyond Toolbox:** . -->
-
-<!-- **Homepage:** <Address> -->
-
-<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
-
-## Arvind Ponnarassery Jayan
-
-<!--
-<figure markdown="1">
-![<Name>](<Profile picture. Dimensions: 600x600. Circular crop. Show your face. The purpose of the profile picture is to be able to recognize you. See the other pictures at https://www.jhu-oose.com/staff. We may take your picture for you with a good camera and good lighting, if you want.>){:width="300"}
-</figure>
--->
-
-<!-- **Office Hours:** <Hours> -->
-
-**Email:** <arvind@jhu-oose.com>
-
-<!-- **GitHub Identifier**: [`<GitHub Identifier>`](https://github.com/<GitHub Identifier>) -->
 
 <!-- **Expertise Beyond Toolbox:** . -->
 

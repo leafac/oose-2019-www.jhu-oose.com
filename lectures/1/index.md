@@ -1,5 +1,71 @@
 # Lecture 1: Design Rudiments
 
+[**Video**](https://github.com/jhu-oose/2019-students/releases/download/lectures-videos/oose--lectures--1.mp4){:data-proofer-ignore="true"} <small title="You must be a registered student logged into GitHub to see this.">🔒</small>
+
+# Now I’m Taking OOSE
+
+```
+This is a song called “Now I’m Taking OOSE”
+Subtitle: “Procrastinating on Lecture Prep”
+
+Woke up really early
+In that cold November morning
+Registration opened
+And I was trying to get my seat
+In OOSE
+And I had to beat
+What seemed
+Like five thousand other people
+And I did it
+Sucks for them
+And I went back to sleep
+
+Now I’m reconsidering
+Was this a good idea
+’Cause instead of teaching Software Engineering
+The guy is just playing his new guitar
+As if I cared
+’Cause I don’t
+I guess I’ll just pretend to laugh
+Ha ha ha
+Ha ha
+
+Now I’m taking OOSE
+My best friend is Roboose
+Working on a project I choose
+That sucks less than TODOOSE
+
+Now I’m taking OOSE
+
+Half of it are labs
+Group mate had garlic for lunch
+I’m sorry buddy
+But I don’t think that we can work under this condition
+Go brush your teeth
+And coming to think of it
+Maybe not even then
+’Cause you know,
+Would it kill you to read the iteration page before to the lab?
+Then we don’t have to explain everything to you…
+Not nice, buddy
+Ohhh, burn
+
+Now I’m taking OOSE
+My best friend is Roboose
+Working on a project I choose
+That sucks less than TODOOSE
+
+Now I’m taking OOSE
+My best friend is Roboose
+Working on a project I choose
+That sucks less than TODOOSE
+
+Now I’m taking OOSE
+Now I’m taking OOSE
+Now I’m taking OOSE
+Now I’m taking OOSE
+```
+
 # Class Diagrams
 
 - Come up with features for TODOOSE
@@ -48,6 +114,8 @@
 
 - Low-level class diagram in IntelliJ for the whole `com.jhuoose.todoose` package:
   ![Package Class Diagram from IntelliJ](package-class-diagram-from-intellij.png){:width="575"}
+- Version annotated in class:
+  ![Annotated Package Class Diagram from IntelliJ](package-class-diagram-from-intellij--annotated.png)
 - Read diagram and code side-by-side:
   - Classes:
     - Fields.
@@ -67,6 +135,8 @@
 
 # High-Level Class Diagrams
 
+- The diagram we drew in class for extended TODOOSE features:
+  ![A High-Level UML Class Diagram for Extended TODOOSE Features](high-level-uml-diagram-from-lecture.png)
 - Omit:
   - Classes like controllers, repositories, server, and so forth.
   - Getters and setters.
