@@ -51,7 +51,7 @@ Mondays & Wednesdays 13:30–14:45
 
 [Lecture 8: Security](/lectures/8)
 
-[Lecture 9: Other Programming Paradigms](/lectures/9) <small title="Work in Progress">🚧</small>
+[Lecture 9: Programming Paradigms](/lectures/9)
 
 [Lecture 10: Open-Source](/lectures/10) <small title="Work in Progress">🚧</small>
 
@@ -77,7 +77,7 @@ Mondays & Wednesdays 13:30–14:45
 
 [Assignment 8: Security](/assignments/8)
 
-[Assignment 9: Other Programming Paradigms](/assignments/9) <small title="Work in Progress">🚧</small>
+[Assignment 9: Programming Paradigms](/assignments/9)
 
 [Assignment 10: Open-Source](/assignments/10) <small title="Work in Progress">🚧</small>
 
