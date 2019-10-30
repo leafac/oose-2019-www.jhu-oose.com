@@ -43,7 +43,7 @@
   - Make you a more confident software engineer.
   - Give the language to communicate ideas about software.
     - Allow you to _think_ those ideas.
-  - Elevate the level of discourse (from things like the syntax of a programming language to the principles behind a library like [React](/toolbox#user-interface-builder-react)—which is [functional programming](/lectures/9#functional-programming), in case you’re wondering).
+  - Elevate the level of discourse (from things like the syntax of a programming language to the principles behind a library like [React](/toolbox#user-interface-builder-react)—which is [functional programming](/lectures/9#functional-programming-in-depth), in case you’re wondering).
 - Course parts:
   - Principles (Lectures): The things that last.
   - Practice (Group Projects & Laboratory Sessions): The only way to learn.
