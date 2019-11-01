@@ -204,23 +204,17 @@
 
 ## Adeshola Lawal
 
-
 <figure markdown="1">
-![Adeshola Lawal](Adeshola-1.png){:width="300"}
+![Adeshola Lawal](adeshola.png){:width="300"}
 </figure>
 
-
-**Office Hours:**: Wednesdays 9:00-10:00 & Thursdays: 11:00-12:00
+**Office Hours:**: Wednesdays 9:00-10:00 & Thursdays 11:00-12:00
 
 **Email:** <adeshola@jhu-oose.com>
 
 **GitHub Identifier**: [`shola-lawal`](https://github.com/shola-lawal)
 
-**Expertise Beyond Toolbox:**: .NET, .NET Core, Data engineering
-
-<!-- **Homepage:** <Address> -->
-
-<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
+**Expertise Beyond Toolbox:**: .NET, .NET Core, and Data engineering.
 
 ## Kalyani Bansidhar Pawar
 
