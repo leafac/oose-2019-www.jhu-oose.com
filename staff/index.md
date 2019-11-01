@@ -92,11 +92,9 @@
 
 ## Amrit Nidhi
 
-<!--
 <figure markdown="1">
-![<Name>](<Profile picture. Dimensions: 600x600. Circular crop. Show your face. The purpose of the profile picture is to be able to recognize you. See the other pictures at https://www.jhu-oose.com/staff. We may take your picture for you with a good camera and good lighting, if you want.>){:width="300"}
+![Amrit Nidhi](anidhi.jpg){:width="300"}
 </figure>
--->
 
 **Office Hours:** Wednesdays & Fridays 18:00–19:00
 
@@ -104,11 +102,9 @@
 
 **GitHub Identifier**: [`anidhi`](https://github.com/anidhi)
 
-**Expertise Beyond Toolbox:** : Android, Python, C#, Adobe Photoshop/Illustrator
+**Expertise Beyond Toolbox:** : Android, Python, C#, and Adobe Photoshop & Illustrator.
 
-<!-- **Homepage:** <Address> -->
-
-**Personal Pronoun:** She/her
+**Personal Pronoun:** [She/her](https://www.mypronouns.org/she-her)
 
 ## Stephan Kemper
 
