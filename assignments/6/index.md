@@ -1,8 +1,10 @@
 # Assignment 6: Implementation · React
 
-# Working on Assignment
+# Working on the Assignment
 
 <video src="https://archive.org/download/jhu-oose/oose--assignments--6.mp4" controls preload="none"></video>
+
+# Rock–Paper–Scissors
 
 <small>
 **50 points**

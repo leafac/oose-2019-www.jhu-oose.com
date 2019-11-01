@@ -1,14 +1,14 @@
 # Assignment 1: Design Rudiments
 
-<small>
-Submit your assignment as a [Markdown](/toolbox#authoring-language-markdown) document at `assignments/1.md` in the `master` branch of your personal repository at `https://github.com/jhu-oose/{{site.course}}-student-<identifier>`.
-</small>
-
-# Working on Assignment
+# Working on the Assignment
 
 <video src="https://archive.org/download/jhu-oose/oose--assignments--1.mp4" controls preload="none"></video>
 
 # Class Diagram
+
+<small>
+Submit your assignment as a [Markdown](/toolbox#authoring-language-markdown) document at `assignments/1.md` in the `master` branch of your personal repository at `https://github.com/jhu-oose/{{site.course}}-student-<identifier>`.
+</small>
 
 Before the Internet, one of the most interesting things you could do on a computer was playing Minesweeper. Remember the old times:
 

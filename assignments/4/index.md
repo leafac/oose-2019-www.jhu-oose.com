@@ -1,8 +1,10 @@
 # Assignment 4: Implementation · Server
 
-# Working on Assignment
+# Working on the Assignment
 
 <video src="https://archive.org/download/jhu-oose/oose--assignments--4.mp4" controls preload="none"></video>
+
+# Server
 
 In [Lecture 4](/lectures/4) we started to implement a new feature in [TODOOSE](https://github.com/jhu-oose/todoose/): the ability to see items that were marked as completed, as opposed to just removing them from the list forever.
 
