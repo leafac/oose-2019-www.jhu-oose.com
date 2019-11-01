@@ -104,11 +104,11 @@
 
 **GitHub Identifier**: [`anidhi`](https://github.com/anidhi)
 
-<!-- **Expertise Beyond Toolbox:** . -->
+**Expertise Beyond Toolbox:** : Android, Python, C#, Adobe Photoshop/Illustrator
 
 <!-- **Homepage:** <Address> -->
 
-<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
+**Personal Pronoun:** She/her
 
 ## Stephan Kemper
 
