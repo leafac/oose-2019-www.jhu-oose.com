@@ -204,19 +204,19 @@
 
 ## Adeshola Lawal
 
-<!--
-<figure markdown="1">
-![<Name>](<Profile picture. Dimensions: 600x600. Circular crop. Show your face. The purpose of the profile picture is to be able to recognize you. See the other pictures at https://www.jhu-oose.com/staff. We may take your picture for you with a good camera and good lighting, if you want.>){:width="300"}
-</figure>
--->
 
-**Office Hours:** Fridays 11:30–12:30
+<figure markdown="1">
+![Adeshola Lawal](Adeshola-1.png){:width="300"}
+</figure>
+
+
+**Office Hours:**: Wednesdays 9:00-10:00 & Thursdays: 11:00-12:00
 
 **Email:** <adeshola@jhu-oose.com>
 
 **GitHub Identifier**: [`shola-lawal`](https://github.com/shola-lawal)
 
-<!-- **Expertise Beyond Toolbox:** . -->
+**Expertise Beyond Toolbox:**: .NET, .NET Core, Data engineering
 
 <!-- **Homepage:** <Address> -->
 
