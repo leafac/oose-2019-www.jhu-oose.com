@@ -38,7 +38,7 @@ fullCalendar:
           url: /lectures/10
           start: 2019-11-06
         - title: Review
-          url: /quiz#review-session
+          url: /quiz
           start: 2019-11-13
         - title: Quiz
           url: /quiz

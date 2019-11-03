@@ -17,6 +17,8 @@ Mondays & Wednesdays 13:30–14:45
 
 [Policies](/policies)
 
+[Opportunities for Extra Points](/opportunities-for-extra-points)
+
 [Students Area](https://github.com/jhu-oose/{{site.course}}-students){:data-proofer-ignore="true"} <small title="You must be a registered student logged into GitHub to see this.">🔒</small>
 
 [Acknowledgements](/acknowledgements)
@@ -57,8 +59,6 @@ Mondays & Wednesdays 13:30–14:45
 
 # Individual Assignments
 
-[Opportunities for Extra Points](/opportunities-for-extra-points)
-
 [Assignment 0: Project Proposal](/assignments/0)
 
 [Assignment 1: Design Rudiments](/assignments/1)
@@ -81,13 +81,9 @@ Mondays & Wednesdays 13:30–14:45
 
 [Assignment 10: Open-Source](/assignments/10) <small title="Work in Progress">🚧</small>
 
-# Quiz
+# [Quiz](/quiz)
 
-[Quiz](/quiz) <small title="Work in Progress">🚧</small>
-
-# Group Projects
-
-[Group Projects](/group-projects)
+# [Group Projects](/group-projects)
 
 [Iteration 0: Project Proposal](/iterations/0)
 
