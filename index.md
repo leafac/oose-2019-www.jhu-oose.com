@@ -55,7 +55,7 @@ Mondays & Wednesdays 13:30–14:45
 
 [Lecture 9: Programming Paradigms](/lectures/9)
 
-[Lecture 10: Open-Source](/lectures/10) <small title="Work in Progress">🚧</small>
+[Lecture 10: Open-Source](/lectures/10)
 
 # Individual Assignments
 
@@ -79,7 +79,7 @@ Mondays & Wednesdays 13:30–14:45
 
 [Assignment 9: Programming Paradigms](/assignments/9)
 
-[Assignment 10: Open-Source](/assignments/10) <small title="Work in Progress">🚧</small>
+[Assignment 10: Open-Source](/assignments/10)
 
 # [Quiz](/quiz)
 

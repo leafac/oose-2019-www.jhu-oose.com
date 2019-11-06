@@ -16,7 +16,7 @@
 <small>
 For example, [`jhu-oose-example-student`](https://github.com/jhu-oose-example-student).  
 Don’t include an `@` sign at the beginning—this isn’t a [mention](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#mentioning-people-and-teams).  
-GitHub identifiers **do not** start with `2019-student-`.  
+GitHub identifiers **do not** start with `{{site.course}}-student-`.  
 </small>
 
 <label>
