@@ -56,6 +56,10 @@ Both presentations follow a similar format:
 
 - Improve your presentation skills by following the recommendations in [speaking.io](https://speaking.io), by taking the courses on presentation skills offered by the university, and by reading books such as [The Art of Explanation](http://artofexplanation.com) and [Presentation Zen](https://www.presentationzen.com).
 
+# Submission
+
+By the end of each iteration we collect whatever you have at the `master` branch and evaluate that. There’s no extra steps you have to take to submit, just make sure the code at the `master` branch is in a good state: all the branches that should have been merged are merged, the tests are passing, and so forth. Also, keep the project board up-to-date and document your progress with issues, pull requests, and so forth.
+
 # Examples
 
 You must work on your own ideas—the following examples are only to help you gauge the scale of project suitable for the course. See our discussion on [difficulty](/iterations/0#difficulty).
