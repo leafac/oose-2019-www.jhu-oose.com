@@ -183,10 +183,12 @@
 **Personal Pronoun:** [He/him](https://www.mypronouns.org/he-him)
 
 ## Pranav Shirke
-<figure markdown="1">
-![Pranav Shirke](IMG_2413.png){:width="300"}
-</figure>
 
+<!--
+<figure markdown="1">
+![<Name>](<Profile picture. Dimensions: 600x600. Circular crop. Show your face. The purpose of the profile picture is to be able to recognize you. See the other pictures at https://www.jhu-oose.com/staff. We may take your picture for you with a good camera and good lighting, if you want.>){:width="300"}
+</figure>
+-->
 
 **Office Hours:** Fridays 12:30–13:30 & Wednesdays 16:30–17:30
 
@@ -198,7 +200,7 @@
 
 <!-- **Homepage:** <Address> -->
 
-**Personal Pronoun:** [He/him](https://www.mypronouns.org/he-him)
+<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
 
 ## Adeshola Lawal
 
