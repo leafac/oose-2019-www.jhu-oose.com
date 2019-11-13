@@ -184,7 +184,6 @@
 
 ## Pranav Shirke
 
-
 <figure markdown="1">
 ![Pranav Shirke](pranav.png){:width="300"}
 </figure>
@@ -195,11 +194,6 @@
 
 **GitHub Identifier**: [`Pranavs05`](https://github.com/Pranavs05)
 
-<!-- **Expertise Beyond Toolbox:** . -->
-
-<!-- **Homepage:** <Address> -->
-
-<!-- **Personal Pronoun:** See https://www.mypronouns.org to understand more about this. Answer (if you wish) in the form of a link, for example, [She/her](https://www.mypronouns.org/she-her) -->
  **Personal Pronoun:** [He/him](https://www.mypronouns.org/he-him)
 
 ## Adeshola Lawal
