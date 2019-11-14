@@ -2,6 +2,10 @@
 
 The quiz is an in-class, paper-and-pencil, individual assessment.
 
+# Review Session
+
+[**Video**](https://github.com/jhu-oose/2019-students/releases/download/lectures-videos/oose--lectures--quiz-review-session.mp4){:data-proofer-ignore="true"} <small title="You must be a registered student logged into GitHub to see this.">🔒</small>
+
 # Cheat Sheet
 
 You may bring one sheet of paper, 8.5″ × 11″, handwritten by you, front and back, with whatever information you want. You must turn in the cheat sheet with the quiz.
