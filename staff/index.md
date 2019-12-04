@@ -1,8 +1,12 @@
 # Staff
 
+**<small>⚠️</small>  For the rest of semester office hours are by appointment only.**
+
+<!-- 
 **<small>⚠️</small>  Office hours may be rescheduled: check the [Announcements](https://github.com/jhu-oose/{{site.course}}-students/labels/announcement){:data-proofer-ignore="true"} <small title="You must be a registered student logged into GitHub to see this.">🔒</small>.**
 
 **<small>⚠️</small>  Office hours are at the Undergraduate Laboratory in Malone Hall 122.**
+-->
 
 # Instructor: Leandro Facchinetti
 
@@ -10,7 +14,7 @@
 ![Leandro Facchinetti](leandro.png){:width="300"}
 </figure>
 
-**Office Hours:** Mondays & Wednesdays 15:00–16:00
+<!-- **Office Hours:** Mondays & Wednesdays 15:00–16:00 -->
 
 **Email:** <leandro@jhu-oose.com>
 
@@ -28,7 +32,7 @@
 ![Yash Kumar Lal](yash.png){:width="300"}
 </figure>
 
-**Office Hours:** Tuesdays 10:00–11:00 & Thursdays 10:00–11:00
+<!-- **Office Hours:** Tuesdays 10:00–11:00 & Thursdays 10:00–11:00 -->
 
 **Email:** <yash@jhu-oose.com>
 
@@ -48,7 +52,7 @@
 ![Anand Koshy](anand.png){:width="300"}
 </figure>
 
-**Office Hours:** Mondays 12:00–13:00
+<!-- **Office Hours:** Mondays 12:00–13:00 -->
 
 **Email:** <anand@jhu-oose.com>
 
@@ -62,7 +66,7 @@
 </figure>
 -->
 
-**Office Hours:** Thursdays 08:00–08:45 & Fridays 08:00–09:15
+<!-- **Office Hours:** Thursdays 08:00–08:45 & Fridays 08:00–09:15 -->
 
 **Email:** <nikhil@jhu-oose.com>
 
@@ -78,7 +82,7 @@
 ![Brandon Lim](blim.png){:width="300"}
 </figure>
 
-**Office Hours:** Tuesdays & Thursdays 13:30–14:45
+<!-- **Office Hours:** Tuesdays & Thursdays 13:30–14:45 -->
 
 **Email:** <brandon@jhu-oose.com>
 
@@ -96,7 +100,7 @@
 ![Amrit Nidhi](anidhi.jpg){:width="300"}
 </figure>
 
-**Office Hours:** Wednesdays & Fridays 18:00–19:00
+<!-- **Office Hours:** Wednesdays & Fridays 18:00–19:00 -->
 
 **Email:** <amrit@jhu-oose.com>
 
@@ -112,7 +116,7 @@
 ![Stephan Kemper](stephan.png){:width="300"}
 </figure>
 
-**Office Hours:** Mondays 10:00–11:00 & Tuesdays 11:00–12:00
+<!-- **Office Hours:** Mondays 10:00–11:00 & Tuesdays 11:00–12:00 -->
 
 **Email:** <stephan@jhu-oose.com>
 
@@ -126,7 +130,7 @@
 ![Muskaan Kalra](muskaan.png){:width="300"}
 </figure>
 
-**Office Hours:** Tuesdays & Thursdays 15:00–16:00
+<!-- **Office Hours:** Tuesdays & Thursdays 15:00–16:00 -->
 
 **Email:** <muskaan@jhu-oose.com>
 
@@ -142,7 +146,7 @@
 ![Liza Mathews](liza.png){:width="300"}
 </figure>
 
-**Office Hours:** Wednesdays 10:00–11:00
+<!-- **Office Hours:** Wednesdays 10:00–11:00 -->
 
 **Email:** <liza@jhu-oose.com>
 
@@ -156,7 +160,7 @@
 ![Shreyas Aiyar](shreyas.png){:width="300"}
 </figure>
 
-**Office Hours:** Mondays & Thursdays 18:00–19:00
+<!-- **Office Hours:** Mondays & Thursdays 18:00–19:00 -->
 
 **Email:** <shreyas@jhu-oose.com>
 
@@ -172,7 +176,7 @@
 ![Anuraag Baishya](anuraag.png){:width="300"}
 </figure>
 
-**Office Hours:** Tuesdays & Thursdays 16:15–17:15
+<!-- **Office Hours:** Tuesdays & Thursdays 16:15–17:15 -->
 
 **Email:** <anuraag@jhu-oose.com>
 
@@ -188,7 +192,7 @@
 ![Pranav Shirke](pranav.png){:width="300"}
 </figure>
 
-**Office Hours:** Fridays 12:30–13:30 & Wednesdays 16:30–17:30
+<!-- **Office Hours:** Fridays 12:30–13:30 & Wednesdays 16:30–17:30 -->
 
 **Email:** <pranav@jhu-oose.com>
 
@@ -202,7 +206,7 @@
 ![Adeshola Lawal](adeshola.png){:width="300"}
 </figure>
 
-**Office Hours:**: Wednesdays 9:00-10:00 & Thursdays 11:00-12:00
+<!-- **Office Hours:**: Wednesdays 9:00-10:00 & Thursdays 11:00-12:00 -->
 
 **Email:** <adeshola@jhu-oose.com>
 
@@ -218,7 +222,7 @@
 </figure>
 -->
 
-**Office Hours:** Wednesdays 12:00–13:00
+<!-- **Office Hours:** Wednesdays 12:00–13:00 -->
 
 **Email:** <kalyani@jhu-oose.com>
 
