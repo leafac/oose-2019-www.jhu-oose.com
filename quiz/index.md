@@ -4,6 +4,16 @@ The quiz is an in-class, paper-and-pencil, individual assessment.
 
 # [Quiz with Answers](quiz.pdf)
 
+# Clarifications Shown During Quiz
+
+In **§ Architecture of a Web Application, 1 & 2**, we mean _in which machines_ the server & client are running.
+
+In **§ Architecture of a Web Application, 5**, you can answer the roles of these components in general, for any web application, if you don’t want to be specific about TODOOSE.
+
+In **§ Class Diagram**, a manager may allow _specific developers_ to see _specific lists_.
+
+The blank pages are for you to draw the diagrams.
+
 # Review Session
 
 [**Video**](https://github.com/jhu-oose/2019-students/releases/download/lectures-videos/oose--lectures--quiz-review-session.mp4){:data-proofer-ignore="true"} <small title="You must be a registered student logged into GitHub to see this.">🔒</small>
