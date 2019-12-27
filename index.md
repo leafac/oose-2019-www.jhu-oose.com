@@ -19,6 +19,8 @@ Mondays & Wednesdays 13:30–14:45
 
 [Opportunities for Extra Points](/opportunities-for-extra-points)
 
+[Fun Stuff Students Did](/fun-stuff-students-did)
+
 [Students Area](https://github.com/jhu-oose/{{site.course}}-students){:data-proofer-ignore="true"} <small title="You must be a registered student logged into GitHub to see this.">🔒</small>
 
 [Acknowledgements](/acknowledgements)
