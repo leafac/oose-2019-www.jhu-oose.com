@@ -50,4 +50,4 @@ Here’s checklist of what you need to do:
 
 - Deploy this new version to Heroku. **Create a new Heroku application with an unpredictable name as explained in the video above; don’t reuse the Heroku application from [Assignment 0](/assignments/0).**
 
-{% include assignment_submission_form.md assignment="4" %}
+{% include assignment-submission-form.md assignment="4" %}

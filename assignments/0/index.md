@@ -207,4 +207,4 @@ I **like** it.
 
 {% endcapture%}
 
-{% include assignment_submission_form.md assignment="0" extra_fields=assignment_submission_form_extra_fields %}
+{% include assignment-submission-form.md assignment="0" extra_fields=assignment_submission_form_extra_fields %}

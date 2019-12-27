@@ -51,4 +51,4 @@ Extend the game following the rules from [this The Big Bang Theory episode](http
 
 With Lizard and Spock the game got too complicated, so a simple “Player 2 wins!” isn’t enough anymore. When the game is over, add an explanation, for example, “Lizard poisons Spock, so Player 2 wins!”
 
-{% include assignment_submission_form.md assignment="6" %}
+{% include assignment-submission-form.md assignment="6" %}
