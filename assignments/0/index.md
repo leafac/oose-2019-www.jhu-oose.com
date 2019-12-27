@@ -205,6 +205,6 @@ I **like** it.
 
 </fieldset>
 
-{% endcapture%}
+{% endcapture %}
 
 {% include assignment-submission-form.md assignment="0" extra_fields=assignment_submission_form_extra_fields %}
