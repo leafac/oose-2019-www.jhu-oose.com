@@ -185,7 +185,7 @@ The assignment was **too little work** and I got bored.
 
 **<small>⚠️</small>  Don’t submit this form multiple times.**
 
-<button>Submit</button>
+<button disabled>Submit</button>
 
 </form>
 

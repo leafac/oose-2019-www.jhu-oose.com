@@ -57,7 +57,7 @@ This is the 6-character “Hopkins ID” in [SIS](https://sis.jhu.edu/), **not**
 
 **<small>⚠️</small>  Don’t submit this form multiple times.**
 
-<button>Register</button>
+<button disabled>Register</button>
 
 </fieldset>
 </form>

@@ -1,3 +1,5 @@
+# This is an archived version of https://github.com/jhu-oose/www.jhu-oose.com that I (@leafac) developed when teaching the course in the Fall of 2019. Some of the links may be broken.
+
 # <img alt="Object-Oriented Software Engineering" src="logo.png" width="494">
 
 [**Course website**](https://www.jhu-oose.com)

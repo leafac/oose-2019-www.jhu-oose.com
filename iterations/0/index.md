@@ -75,7 +75,7 @@ Groups must have 5 or 6 members.
 
 **<small>⚠️</small>  Don’t submit this form multiple times. Your group must be registered by only one of your group members.**
 
-<button>Register</button>
+<button disabled>Register</button>
 
 </fieldset>
 </form>
